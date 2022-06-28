@@ -48,8 +48,11 @@ body {
     flex: 0 100%;
     justify-content: center;
 }
+.full-width-padding{
+    padding: 25px;
+}
 .full-width-section h2 {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 700;
     margin: 10px 0;
     line-height: 30px;
@@ -172,10 +175,6 @@ body {
 }
 
 
-
-.red-background h2{
-    font-size: 20px;
-}
 
 
 
@@ -324,7 +323,9 @@ body {
         line-height: 40px;
         margin: 10px 0;
     }
-
+    .full-width-padding{
+        padding: 70px;
+    }
     .text-item {
         margin-left: 19px;
     }
